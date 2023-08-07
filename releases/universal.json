@@ -3,13 +3,13 @@
     {
       "name": "install_rd.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/install_rd.sh",
-      "sha256": "6164328c5579eba5bf1c3ea6892b2dbb8ea914181fff5d98bca73fbc2561fc66",
+      "sha256": "d5cfceda7f8a1bbbe4764f9549771b0ae0966e9c3c1ba1afc2704892463ea05b",
       "packed": false
     },
     {
       "name": "install.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/install.sh",
-      "sha256": "7022094bd6508e207405bf86292f563be9adfa35554db0e7b291532e98fb5b65",
+      "sha256": "8af09569029ece85b8231dc3a14e998d4e59898e75bbbe6556a076122be31cc3",
       "packed": false
     },
     {
