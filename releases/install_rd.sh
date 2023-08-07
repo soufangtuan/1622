@@ -1,3 +1,3 @@
 #!/bin/sh
-cp -vf ./*.dtb /etc.defaults/model.dtb
-cp -vf ./*.dtb /var/run/model.dtb
+cp -vf model_dva1622.dtb /etc.defaults/model.dtb
+cp -vf model_dva1622.dtb /var/run/model.dtb
