@@ -4,13 +4,13 @@
     {
       "name": "patch_dtb_rd.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_rd.sh",
-      "sha256": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+      "sha256": "d471d9177ae7d3341b8bf8f5bdafe1a2ddccdea24f4acdf42aba785f26a25a9a",
       "packed": false
     },
     {
       "name": "patch_dtb.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb.sh",
-      "sha256": "beefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdead",
+      "sha256": "e69fd68eaeba4c39cb10c4afbca5455b15e45a0aae2be098d4395f092f6354ca",
       "packed": false
     },
     {
