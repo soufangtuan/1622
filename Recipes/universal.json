@@ -1,0 +1,26 @@
+{
+  "files": [
+    {
+      "name": "install_rd.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/install_rd.sh",
+      "sha256": "a444f708ed99090f3f0ce9e44cfe5e1cce529b61e99d003ce917712b0c9f0a1b",
+      "packed": false
+    },
+    {
+      "name": "install.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/install.sh",
+      "sha256": "850032949bb9a8e46c3dc85781b4d557f5f63bac163798e0a407b86ddf246ff6",
+      "packed": false
+    },
+    {
+      "name": "model_dva1622.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/model_dva1622.dtb",
+      "sha256": "a0e9a11a973b0fa3170c9f3a0b9fb4181f0f604ccd9b5352dcf3aca44a6f3ac4",
+      "packed": false
+    }
+  ],
+  "scripts": {
+    "on_boot": "install_rd.sh",
+    "on_os_load": "install.sh"
+  }
+}
