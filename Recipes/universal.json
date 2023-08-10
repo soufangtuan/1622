@@ -4,19 +4,19 @@
     {
       "name": "patch_dtb_rd.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_rd.sh",
-      "sha256": "1db2fa20ca64fd10f34ad674451c971d10791ce8d968baf26d8f1e36bf76fe21",
+      "sha256": "ee217a18ea431f862b121a3ea2dc24f6e0cf181bd844dc5d553fb5b71edd1f32",
       "packed": false
     },
     {
       "name": "patch_dtb.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb.sh",
-      "sha256": "1a8f33fb179515f0a75dedf2493e288657074f8053e32373165c9657b548fadc",
+      "sha256": "642bc822af9dacb4de5a63a31cab8a36440069115a6fffb98caf5fc899f90e47",
       "packed": false
     },
     {
-      "name": "dva1622.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/dva1622.dtb",
-      "sha256": "a0e9a11a973b0fa3170c9f3a0b9fb4181f0f604ccd9b5352dcf3aca44a6f3ac4",
+      "name": "dva1622_model.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/dva1622_model.dtb",
+      "sha256": "642bc822af9dacb4de5a63a31cab8a36440069115a6fffb98caf5fc899f90e47",
       "packed": false
     }
   ],
