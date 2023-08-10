@@ -14,8 +14,8 @@
     },
     {
       "name": "model_dva1622.dtb",
-      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/model_dva1622.dtb",
-      "sha256": "a0e9a11a973b0fa3170c9f3a0b9fb4181f0f604ccd9b5352dcf3aca44a6f3ac4",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/dva1622_model.dtb",
+      "sha256": "bc06def8813bd8c10615f69353bc0c382384c5d6e39cd166abb571fb3e8d7693",
       "packed": false
     }
   ],
