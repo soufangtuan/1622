@@ -16,7 +16,7 @@
     {
       "name": "ds920_model.dtb",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/ds920_model.dtb",
-      "sha256": "46EA6C39163B07442A0C11A4D993405CCAFF48C55C166F1C9313DA458F52FD59",
+      "sha256": "46ea6c39163b07442a0c11a4d993405ccaff48c55c166f1c9313da458f52fd59",
       "packed": false
     }
   ],
