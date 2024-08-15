@@ -4,13 +4,13 @@
     {
       "name": "patch_dtb_rd_ds920.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_rd_ds920.sh",
-      "sha256": "ee217a18ea431f862b121a3ea2dc24f6e0cf181bd844dc5d553fb5b71edd1f32",
+      "sha256": "f6c42cba5453ca3e3e08f5424cf1457f8fd9161a8ce81323246340d92a2b0fe3",
       "packed": false
     },
     {
       "name": "patch_dtb_ds920.sh",
       "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_ds920.sh",
-      "sha256": "642bc822af9dacb4de5a63a31cab8a36440069115a6fffb98caf5fc899f90e47",
+      "sha256": "0f82f91c29c1daee9fbb5f7ce54610d0a23c781cff7b6a35c9e775c301eb5047",
       "packed": false
     },
     {
