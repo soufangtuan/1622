@@ -22,7 +22,7 @@
   ],
   
   "scripts": {
-    "on_boot": "patch_dtb_rd.sh",
-    "on_os_load": "patch_dtb.sh"
+    "on_boot": "patch_dtb_rd_ds920.sh",
+    "on_os_load": "patch_dtb_ds920.sh"
   }
 }
