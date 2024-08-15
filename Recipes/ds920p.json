@@ -1,0 +1,28 @@
+{
+  "ext_version": "v1",
+  "files": [
+    {
+      "name": "patch_dtb_rd.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb_rd.sh",
+      "sha256": "ee217a18ea431f862b121a3ea2dc24f6e0cf181bd844dc5d553fb5b71edd1f32",
+      "packed": false
+    },
+    {
+      "name": "patch_dtb.sh",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/patch_dtb.sh",
+      "sha256": "642bc822af9dacb4de5a63a31cab8a36440069115a6fffb98caf5fc899f90e47",
+      "packed": false
+    },
+    {
+      "name": "dva1622_model.dtb",
+      "url": "https://raw.githubusercontent.com/soufangtuan/1622/main/releases/dva1622_model.dtb",
+      "sha256": "131391045153d4f36b0b9e01e275df2c5216c15c6cb832dc02a11fc33f4ad38a",
+      "packed": false
+    }
+  ],
+  
+  "scripts": {
+    "on_boot": "patch_dtb_rd.sh",
+    "on_os_load": "patch_dtb.sh"
+  }
+}
